@@ -63,8 +63,7 @@ body{
 ```
 
 ### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I plan to create a custom QR code for my website as part of ongoing development.
 
 ### Useful resources
 
